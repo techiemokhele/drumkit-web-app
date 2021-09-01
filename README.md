@@ -4,3 +4,6 @@ The point of this project is to have each key, when pressed, make a correspondin
 This project involved the use a “data-key” attribute that I'd never seen before. The “data-key” attribute was then selected using the CSS selector[attribute] method. I found this interesting as this was the first time I had saw this done. I also learned how to associate an audio file with the audio API.
 
 Preview web application here: https://techiemokhele.github.io/drumkit-web-app/
+
+![image](https://user-images.githubusercontent.com/67394147/131593559-42fc7c60-c9e2-4e25-9002-9312baad6ab4.png)
+
